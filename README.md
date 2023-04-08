@@ -26,3 +26,6 @@ An app/wesbite designed to make tracking your nutrition and macros simple and ea
 ### Research & Planning Log
 #### Friday, 04/07
 * 2:40: create repo with readme + proposal
+
+### Saturday, 04/08
+* 2:30: Researching on how to start and structure the app by re visiting older lessons in learnhottoprogram to refresh about APIs and C#.
