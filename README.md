@@ -42,3 +42,9 @@ An app/wesbite designed to make tracking your nutrition and macros simple and ea
 <p align="center">
   <img src="ui.jpg" width="250" title="hover text">
 </p>
+
+* 8:50: Updated sketch of what UI could look like:
+
+<p align="center">
+  <img src="ui2.jpg" width="250" title="hover text">
+</p>
