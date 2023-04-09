@@ -34,5 +34,11 @@ An app/wesbite designed to make tracking your nutrition and macros simple and ea
 * 7:20: Finished structuring the initial guideline to start coding:
 
 <p align="center">
-  <img src="apptizer.jpg" width="350" title="hover text">
+  <img src="apptizer.jpg" width="250" title="hover text">
+</p>
+
+* 7:50: Drew first sketch of what UI could look like:
+
+<p align="center">
+  <img src="ui.jpg" width="250" title="hover text">
 </p>
