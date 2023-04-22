@@ -48,3 +48,14 @@ An app/wesbite designed to make tracking your nutrition and macros simple and ea
 <p align="center">
   <img src="ui2.jpg" width="250" title="hover text">
 </p>
+
+### Thursday, 04/21
+
+* 8:50am - 6:11pm: 
+- created repo for App (https://github.com/rafapetra/apptizer-web-app/)
+- added initial main components: Header, Menu and Content
+- added firebase settings and .env file
+- created handleAddingNewFood function to send data to database
+- created NewFoodForm component
+- succesfulle tested sending data to the firestore database
+
