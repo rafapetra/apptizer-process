@@ -34,25 +34,25 @@ An app/wesbite designed to make tracking your nutrition and macros simple and ea
 * 7:20: Finished structuring the initial guideline to start coding:
 
 <p align="center">
-  <img src="apptizer.jpg" width="250" title="hover text">
+  <img src="/Research/apptizer.jpg" width="250" title="hover text">
 </p>
 
 * 7:50: Drew first sketch of what UI could look like:
 
 <p align="center">
-  <img src="ui.jpg" width="250" title="hover text">
+  <img src="/Research/ui.jpg" width="250" title="hover text">
 </p>
 
 * 8:50: Updated sketch of what UI could look like:
 
 <p align="center">
-  <img src="ui2.jpg" width="250" title="hover text">
+  <img src="/Research/ui2.jpg" width="250" title="hover text">
 </p>
 
 ### Thursday, 04/21
 
-* 8:50am - 6:11pm: 
-- created repo for App (https://github.com/rafapetra/apptizer-web-app/)
+ 8:50am - 6:11pm
+- created repo for App (https://github.com/rafapetra/apptizer-web-app/) *to see my commits go to the 'production' branch
 - added initial main components: Header, Menu and Content
 - added firebase settings and .env file
 - created handleAddingNewFood function to send data to database
